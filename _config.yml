@@ -21,7 +21,7 @@ footer-links:
   instagram:
   linkedin: marcelabomfim
   pinterest:
-  rss: # just type anything here for a working RSS icon
+  rss: true  # just type anything here for a working RSS icon
   twitter: cecelabomfim
   stackoverflow: # your stackoverflow profile, e.g. "users/3807565/akshay"
   youtube: # channel/<your_long_string> or user/<user-name>
