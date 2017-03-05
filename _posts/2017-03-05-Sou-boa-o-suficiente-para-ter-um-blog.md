@@ -42,7 +42,7 @@ Espero poder ajudar a comunidade que tanto me ajudou.
 ```javascript
 var date = post.date();
 if(isPrime(date))
-    post.public();
+    post.publish();
 
 //deixei pra postar hoje porque a data é número primo ;)
 ```
