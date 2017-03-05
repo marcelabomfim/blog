@@ -41,7 +41,7 @@ Espero poder ajudar a comunidade que tanto me ajudou.
 
 ```javascript
 var date = post.date();
-if(ifPrime(date))
+if(isPrime(date))
     post.public();
 
 //deixei pra postar hoje porque a data é número primo ;)
