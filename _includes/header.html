@@ -1,0 +1,62 @@
+<div class="intro-header">
+    <div class="wrapper-masthead" id="toFixedTop">
+        <div class="container">
+            <header class="masthead clearfix">
+                <div class="site-info">
+                    <a href="{{ site.baseurl }}/">
+                        <img class="site-logo" src="{{ site.baseurl }}/images/logo-marcela-bomfim.png" alt="Marcela Bomfim">
+                        <div class="site-name">{{ site.name }}</div>
+                    </a>
+                </div>
+                <nav>
+                    <!-- <a href="{{ site.siteurl }}">Sobre</a> -->
+                    {% include svg-icons.html %}
+                </nav>
+            </header>
+        </div>
+    </div>
+    <div class="intro-text">
+        <div class="container">
+            {% if page.title %}
+                <p class="intro-subtitle">
+                    <!-- Data no formato BR -->
+                    {{ page.date | date: "%-d" }}
+                    {% assign m = page.date | date: "%-m" %}
+                        {% case m %}
+                            {% when '1' %}Janeiro
+                            {% when '2' %}Fevereiro
+                            {% when '3' %}Março
+                            {% when '4' %}Abril
+                            {% when '5' %}Maio
+                            {% when '6' %}Junnho
+                            {% when '7' %}Julho
+                            {% when '8' %}Agosto
+                            {% when '9' %}Setembro
+                            {% when '10' %}Outubro
+                            {% when '11' %}Novembro
+                            {% when '12' %}Dezembro
+                        {% endcase %}
+                    {{ page.date | date: "%Y" }}
+                </p>
+                <h1 class="intro-title">{{page.title}}</h1>
+            {% else %}
+                <div class="intro-avatar">
+                    <img src="{{ site.baseurl }}/images/avatar.jpg" alt="">
+                </div>
+                <h1 class="intro-title">{{ site.name }}</h1>
+                <p class="intro-subtitle">Este é o meu blog! Para saber mais sobre mim visite meu <a href="{{ site.url }}" target="_blank">site</a>.</p>
+            {% endif %}
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+    window.onscroll = function() {
+        var nav = document.getElementById('toFixedTop');
+        if ( window.pageYOffset > 200 ) {
+            nav.classList.add("fixed");
+        } else {
+            nav.classList.remove("fixed");
+        }
+    }
+</script>
