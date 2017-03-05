@@ -18,7 +18,7 @@ Eu trabalho como Desenvolvedora Web, fiz faculdade e tudo mais. Porém, desde qu
 
 Textos de pessoas comuns, assim como eu e você.  Com isso muito do que eu sei hoje vem do que eu estudei e aprendi com blogs de pessoas assim, que separaram um pouquinho do seu tempo para compartilhar o seu conhecimento e então ajudar tanto quem está iniciando quanto quem já está no caminho.
 
-Eu também percebi que ter um blog é uma forma de estudar/praticar. Pelo menos pra mim, desde a escola, é isso vem funcionando. A cada prova, seminário ou coisa do tipo, a melhor forma de aprender sobre o conteúdo, e não apenas decorar, era fazendo resumos ou tópicos. Assim eu sintetizava tudo o que aprendia e passava para a minha linguagem, meu jeito de falar, muito mais fácil de lembrar depois.
+Eu também percebi que ter um blog é uma forma de estudar/praticar. Pelo menos pra mim, desde a escola, é isso que vem funcionando. A cada prova, seminário ou coisa do tipo, a melhor forma de aprender sobre o conteúdo, e não apenas decorar, era fazendo resumos ou tópicos. Assim eu sintetizava tudo o que aprendia e passava para a minha linguagem, meu jeito de falar, muito mais fácil de lembrar depois.
 
 
 ## Sou boa o suficiente para ter um blog?
