@@ -45,6 +45,9 @@ url: http://marcelabomfim.github.io
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: "/blog"
 
+# Full URL = url + baseurl
+domain_name: http://marcelabomfim.github.io/blog
+
 
 # Add this on each post to define excerpt
 excerpt_separator: "<!-- more -->"
