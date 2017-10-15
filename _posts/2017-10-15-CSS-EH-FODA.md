@@ -1,6 +1,7 @@
 ---
 layout: post
-title: CSS EH FODA - Um pouquinho da minha relação com CSS e como ele me faz brilhar os olhinhos
+title: CSS EH FODA
+subtitle: Um pouquinho da minha relação com CSS e como ele me faz brilhar os olhinhos
 author: Marcela Bomfim
 ---
 
