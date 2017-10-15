@@ -32,4 +32,6 @@ Tem um GIF famoso sobre [CSS mal organizado](https://i.imgur.com/Q3cUg29.gif), m
 
 Se você também acha que CSS É FODA, comenta aí embaixo e compartilha esse texto com a galera. E se você não acha... bom, comenta também! 
 
+Ahhh e eu criei um repositório no github para guardar links fodas sobre css, dê a sua sugestão lá: [CSSEHFODA](https://github.com/marcelabomfim/CSSEHFODA)
+
 Enfim, espero que tenham gostado do meu post de retorno e até mais!
